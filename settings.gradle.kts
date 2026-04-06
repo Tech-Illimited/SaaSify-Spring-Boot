@@ -1,0 +1,1 @@
+rootProject.name = "SaaSify-Spring-Boot"
